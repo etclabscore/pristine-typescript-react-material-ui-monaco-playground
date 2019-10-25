@@ -26,7 +26,6 @@ const MyApp: React.FC = () => {
   function handlePlayClick() {
     if (valueGetter) {
       const editorValue = (valueGetter as any).current();
-      console.log('editorvalue', editorValue);
       setResults(editorValue);
     }
   }
@@ -40,7 +39,9 @@ const MyApp: React.FC = () => {
         <Toolbar>
           <Grid container alignContent="center" alignItems="center" justify="flex-start">
             <Typography variant="h6" style={{ paddingRight: "20px" }}>{t("Pristine")}</Typography>
-            <Typography variant="caption" style={{ paddingRight: "5px" }}>{t("typescript-react-material-ui-monaco-playground")}</Typography>
+            <Typography variant="caption" style={{ paddingRight: "5px" }}>
+              {t("typescript-react-material-ui-monaco-playground")}
+            </Typography>
             <IconButton onClick={handlePlayClick} disabled={!isEditorReady}>
               <PlayCircle />
             </IconButton>
