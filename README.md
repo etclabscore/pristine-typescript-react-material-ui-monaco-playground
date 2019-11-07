@@ -1,4 +1,4 @@
-# Pristine Typescript React Materal UI Monaco Playground
+# Pristine Typescript React Material UI Monaco Playground
 
 An open source repository in its original condition. It leverages Typescript, React, Material UI theming, moment.js, i18next, and a monaco splitscreen to give a good starting point for new and existing projects.
 
