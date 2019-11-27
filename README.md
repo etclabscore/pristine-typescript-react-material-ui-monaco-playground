@@ -1,5 +1,7 @@
 # Pristine Typescript React Materal UI Monaco Playground
 
+A starting point for monaco playgrounds.
+
 An open source repository in its original condition. It leverages Typescript, React, Material UI theming, moment.js, i18next, and a monaco splitscreen to give a good starting point for new and existing projects.
 
 Pristine Typescript React Material UI is a fork of [Pristine](https://github.com/etclabscore/pristine).
