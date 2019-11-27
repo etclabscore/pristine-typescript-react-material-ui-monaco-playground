@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pristine-typescript-react-material-ui/static/css/main.6d1edabf.chunk.css",
+    "main.js": "/pristine-typescript-react-material-ui/static/js/main.44d6e23e.chunk.js",
+    "main.js.map": "/pristine-typescript-react-material-ui/static/js/main.44d6e23e.chunk.js.map",
+    "runtime~main.js": "/pristine-typescript-react-material-ui/static/js/runtime~main.d843c283.js",
+    "runtime~main.js.map": "/pristine-typescript-react-material-ui/static/js/runtime~main.d843c283.js.map",
+    "static/js/2.08b18457.chunk.js": "/pristine-typescript-react-material-ui/static/js/2.08b18457.chunk.js",
+    "static/js/2.08b18457.chunk.js.map": "/pristine-typescript-react-material-ui/static/js/2.08b18457.chunk.js.map",
+    "index.html": "/pristine-typescript-react-material-ui/index.html",
+    "precache-manifest.c04354b411ce5250ecd038de773971f5.js": "/pristine-typescript-react-material-ui/precache-manifest.c04354b411ce5250ecd038de773971f5.js",
+    "service-worker.js": "/pristine-typescript-react-material-ui/service-worker.js",
+    "static/css/main.6d1edabf.chunk.css.map": "/pristine-typescript-react-material-ui/static/css/main.6d1edabf.chunk.css.map"
+  }
+}
