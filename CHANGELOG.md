@@ -1,3 +1,12 @@
+# 1.0.0 (2019-11-27)
+
+
+### Bug Fixes
+
+* linting ([c651584](https://github.com/etclabscore/pristine-typescript-react-material-ui-monaco-playground/commit/c651584e4cea12bddcc8bc1d4e29a8d60d9fd28f))
+* **README:** update content to monaco playground ([f6b83bb](https://github.com/etclabscore/pristine-typescript-react-material-ui-monaco-playground/commit/f6b83bb24da1be50d1d05a214098b838820771ee))
+* remove unused variables ([946ff9d](https://github.com/etclabscore/pristine-typescript-react-material-ui-monaco-playground/commit/946ff9d04b4cfeb3fd1763b272d7db0fca5b1675))
+
 # 1.0.0 (2019-10-24)
 
 
