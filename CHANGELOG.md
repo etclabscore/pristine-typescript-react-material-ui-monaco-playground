@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/etclabscore/pristine-typescript-react-material-ui-monaco-playground/compare/1.0.0...1.0.1) (2019-11-27)
+
+
+### Bug Fixes
+
+* **package.json:** homepage link ([e854587](https://github.com/etclabscore/pristine-typescript-react-material-ui-monaco-playground/commit/e8545870e57ac00078e0ae9cf7c0e9ca777d7a45))
+
 # 1.0.0 (2019-11-27)
 
 
