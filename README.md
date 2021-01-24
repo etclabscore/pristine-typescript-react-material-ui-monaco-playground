@@ -1,4 +1,4 @@
-# Pristine Typescript React Materal UI Monaco Playground
+# Pristine Typescript React Material UI Monaco Playground
 
 A starting point for monaco playgrounds.
 
